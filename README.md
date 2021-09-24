@@ -6,12 +6,3 @@
 <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDWeb" />
 </div>
 
-
-
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->

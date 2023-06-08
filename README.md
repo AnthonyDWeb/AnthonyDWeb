@@ -3,7 +3,7 @@
 
 *I'm a new junior **Fullstack Web Developer** in training !* 
 ***
-***My Portforlio:*** https://anthonydweb.github.io/Portfolio/index.html
+***My Portforlio:*** https://anthonydweb.github.io/portfolio/
 ***
 ***My Linkedin:*** https://www.linkedin.com/in/anthonydelforge/
 ***
